@@ -6,6 +6,8 @@ Prepared by: Ken Hamoy
 Jupyter Notebook: MRT3.ipynb
 
 ADDITIONAL NOTES:
+/Spatial Data/
+GADM - Philippines 
 
 /Libraries to import/
 import chart_studio.plotly
